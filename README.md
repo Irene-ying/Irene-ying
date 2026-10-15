@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 你好！我是Irene-ying
+华侨大学 | 信息管理与信息系统 大三
 
-<!--
-**Irene-ying/Irene-ying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 我的项目作品集
+> 持续更新中，后续作品会补充在这里
+- 🎮 猜数字网页小游戏（HTML+JS）【待完成】
+- 📊 R语言数据分析作业【待完成】
+- 🗄️ MySQL数据库课程设计【待完成】
 
-Here are some ideas to get you started:
+## 🛠️ 技能栈
+Java、MySQL数据库、Vue前端、HTML/CSS/JS
+数据分析工具：SPSS、R语言
+工具：Git、用友U8
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 联系方式
+邮箱：2925669055@hqu.edu.cn
